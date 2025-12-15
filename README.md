@@ -23,12 +23,23 @@ The goal of this portfolio is to present my work in a clean, modern, and user-fr
 
 ### 🛠 Tech Stack
 
-Frontend:
+#### Frontend:
 
 * Tailwind CSS
 
 * JavaScript (ES6+)
 
 * React.js
+
+ #### ✨ Features
+* Responsive design (mobile & desktop friendly)
+
+* Smooth animations and modern UI
+
+* Project showcase with details
+
+* Resume download option
+
+* Contact form / social links
 
 
