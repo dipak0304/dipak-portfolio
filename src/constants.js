@@ -42,6 +42,7 @@ import resume from './assets/work_logo/resume.png';
 import music from './assets/work_logo/music.png';
 import movie from './assets/work_logo/movie.png';
 import groceries from './assets/work_logo/groceries.png';
+import media from './assets/work_logo/media.png';
 
 export const SkillsInfo = [
   {
@@ -193,5 +194,15 @@ export const SkillsInfo = [
       tags: ["JavaScript", "Express", "Node js","React", "Angular","Tailwind CSS","MongooDB"],
       github: "https://github.com/dipak0304/jhola-groceries",
       webapp: "https://jhola-groceries-client.vercel.app/",
+    },
+     {
+      id: 5,
+      title: "Social Media",
+      description:
+        "A full-stack social media application built with the MERN stack, featuring real-time chat, user authentication, notifications, and a clean modern UI. This project aims to provide a smooth and secure communication experience similar to modern social platforms.",
+      image: media,
+      tags: ["JavaScript", "Express", "Node js","React", "Angular","Tailwind CSS","MongooDB"],
+      github: "https://github.com/dipak0304/SocialMedia",
+      webapp: "https://jhola-media.vercel.app/",
     },
   ];
