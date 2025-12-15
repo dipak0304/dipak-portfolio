@@ -42,17 +42,71 @@ The goal of this portfolio is to present my work in a clean, modern, and user-fr
 
 * Contact form / social links
 
-#### 📂 Folder Structure
+
+
+## 📂 Folder Structure
+
+> 
+
+```bash
+bash
 portfolio/
 ├── public/
 ├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── assets/
-│ ├── App.jsx
-│ └── main.jsx
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
 ├── package.json
 └── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/dipak0304/dipak-portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project locally:
+
+```bash
+npm run dev
+```
+
+---
+
+
+
+## 📬 Contact
+
+If you'd like to connect or collaborate:
+
+* **Email:** [itzdipak0304@gmail.com](mailto:itzdipak0304@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/dipak-bohara-870694378/]([https://linkedin.com/in/your-profile])
+* **GitHub:** [https://github.com/dipak0304](https://github.com/dipak0304)
+
+---
+
+## ⭐ Support
+
+If you like this portfolio, consider giving it a **star ⭐** on GitHub!
+
+---
+
+
+
+
 
 
 
