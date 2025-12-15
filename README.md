@@ -42,4 +42,17 @@ The goal of this portfolio is to present my work in a clean, modern, and user-fr
 
 * Contact form / social links
 
+#### 📂 Folder Structure
+portfolio/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── assets/
+│ ├── App.jsx
+│ └── main.jsx
+├── package.json
+└── README.md
+
+
 
