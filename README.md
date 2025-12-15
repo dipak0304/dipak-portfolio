@@ -93,7 +93,7 @@ npm run dev
 If you'd like to connect or collaborate:
 
 * **Email:** [itzdipak0304@gmail.com](mailto:itzdipak0304@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/dipak-bohara-870694378/]([https://linkedin.com/in/your-profile])
+* **LinkedIn:** [https://www.linkedin.com/in/dipak-bohara-870694378/]([https://linkedin.com/in/your-profile)
 * **GitHub:** [https://github.com/dipak0304](https://github.com/dipak0304)
 
 ---
@@ -103,6 +103,7 @@ If you'd like to connect or collaborate:
 If you like this portfolio, consider giving it a **star ⭐** on GitHub!
 
 ---
+
 
 
 
