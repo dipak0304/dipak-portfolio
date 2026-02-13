@@ -43,6 +43,7 @@ import music from './assets/work_logo/music.png';
 import movie from './assets/work_logo/movie.png';
 import groceries from './assets/work_logo/groceries.png';
 import media from './assets/work_logo/media.png';
+import site from './assets/work_logo/sitebuilder.png';
 
 export const SkillsInfo = [
   {
@@ -204,5 +205,15 @@ export const SkillsInfo = [
       tags: ["JavaScript", "Express", "Node js","React", "Angular","Tailwind CSS","MongooDB"],
       github: "https://github.com/dipak0304/SocialMedia",
       webapp: "https://jhola-media.vercel.app/",
+    },
+    {
+      id: 5,
+      title: "Web Builder",
+      description:
+        "A fast and intuitive AI-powered website builder that lets you create, customize, and publish modern, responsive websites in minutes—no coding required.",
+      image: site,
+      tags: ["TypeScriptScript", "Express", "Node js","React", "Angular","Tailwind CSS","MongooDB"],
+      github: "https://github.com/dipak0304",
+      webapp: "https://sitebuilder-dipak019.vercel.app/",
     },
   ];
