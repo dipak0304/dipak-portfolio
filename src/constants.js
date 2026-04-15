@@ -215,7 +215,17 @@ export const SkillsInfo = [
         "A fast and intuitive AI-powered website builder that lets you create, customize, and publish modern, responsive websites in minutes—no coding required.",
       image: site,
       tags: ["TypeScriptScript", "Express", "Node js","React", "Angular","Tailwind CSS","MongooDB"],
-      github: "https://github.com/dipak0304",
+      github: "https://github.com/dipak0304/website-builder",
       webapp: "https://sitebuilder-dipak019.vercel.app/",
+    },
+     {
+      id: 6,
+      title: "Movie Site",
+      description:
+        "A modern movie streaming platform built with Vite, TypeScript, and Tailwind CSS.",
+      image: moviesite,
+      tags: ["TypeScript","Tailwind CSS"],
+      github: "https://github.com/dipak0304/movie",
+      webapp: "https://movie-dipak.vercel.app/",
     },
   ];
