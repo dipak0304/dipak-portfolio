@@ -44,6 +44,8 @@ import movie from './assets/work_logo/movie.png';
 import groceries from './assets/work_logo/groceries.png';
 import media from './assets/work_logo/media.png';
 import site from './assets/work_logo/sitebuilder.png';
+import moviesite from './assets/work_logo/moviesite.png';
+
 
 export const SkillsInfo = [
   {
