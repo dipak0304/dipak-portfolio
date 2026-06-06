@@ -45,6 +45,7 @@ import groceries from './assets/work_logo/groceries.png';
 import media from './assets/work_logo/media.png';
 import site from './assets/work_logo/sitebuilder.png';
 import moviesite from './assets/work_logo/moviesite.png';
+import educonsult from './assets/work_logo/educonsult.png';
 
 
 export const SkillsInfo = [
@@ -227,5 +228,15 @@ export const SkillsInfo = [
       tags: ["TypeScript","Tailwind CSS"],
       github: "https://github.com/dipak0304/movie",
       webapp: "https://movie-dipak.vercel.app/",
+    },
+         {
+      id: 7,
+      title: "EduConsult",
+      description:
+        "A full-stack educational consultation platform with AI-powered grading capabilities.",
+      image: educonsult,
+      tags: ["React","TypeScript","Tailwind CSS"],
+      github: "https://github.com/dipak0304/eduConsult",
+      webapp: "https://educonsultpro.vercel.app",
     },
   ];
