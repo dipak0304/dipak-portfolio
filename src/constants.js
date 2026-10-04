@@ -34,6 +34,7 @@ import freelan from './assets/company_logo/freelan.png';
 
 import ccrclogo from './assets/education_logo/ccrc-logo.jpg';
 import modernlogo from './assets/education_logo/moderntulsi.png';
+import uor from './assets/uor.png'
 
 // Project Section Logo's
 
@@ -145,6 +146,15 @@ export const SkillsInfo = [
       grade: "3.2 GPA",
       desc: "I completed my class 10 education from Modern Tulsi Secondary School, Salyan, under the NEB board, where I studied Science with Computer.",
       degree: "NEB(X), Science with Computer Application",
+    },
+     {
+      id: 2,
+      img: uor,
+      school: "University Of Roehampton, UK",
+      date: "2026",
+      grade: "",
+      desc: "I am currently pursuing my undergraduate degree in Cyber Security at the University of Roehampton, London, United Kingdom, where I am developing knowledge and practical skills in cybersecurity, networking, programming, and information security.
+",
     },
   ];
   
