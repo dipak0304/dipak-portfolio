@@ -34,7 +34,7 @@ import freelan from './assets/company_logo/freelan.png';
 
 import ccrclogo from './assets/education_logo/ccrc-logo.jpg';
 import modernlogo from './assets/education_logo/moderntulsi.png';
-import uor from './assets/education_logo/uor.png'
+import uorlogo from './assets/education_logo/uor.png'
 
 // Project Section Logo's
 
@@ -149,12 +149,11 @@ export const SkillsInfo = [
     },
      {
       id: 2,
-      img: uor,
+      img: uorlogo,
       school: "University Of Roehampton, UK",
       date: "2026",
-      grade: "",
-      desc: "I am currently pursuing my undergraduate degree in Cyber Security at the University of Roehampton, London, United Kingdom, where I am developing knowledge and practical skills in cybersecurity, networking, programming, and information security.
-",
+      grade: "Currently Studying",
+      desc: "I am currently pursuing my undergraduate degree in Cyber Security at the University of Roehampton, London, United Kingdom, where I am developing knowledge and practical skills in cybersecurity, networking, programming, and information security.",
     },
   ];
   
