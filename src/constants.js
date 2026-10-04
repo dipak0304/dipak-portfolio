@@ -128,9 +128,18 @@ export const SkillsInfo = [
     },
   ];
   export const education = [
-   
-    {
+
+     {
       id: 0,
+      img: uorlogo,
+      school: "University Of Roehampton, UK",
+      date: "2026",
+      grade: "Currently Studying",
+      desc: "I am currently pursuing my undergraduate degree in Cyber Security at the University of Roehampton, London, United Kingdom, where I am developing knowledge and practical skills in cybersecurity, networking, programming, and information security.",
+    },
+
+    {
+      id: 1,
       img: ccrclogo,
       school: "Capital College & Research Centre, Kathmandu",
       date: "2023-25",
@@ -138,8 +147,9 @@ export const SkillsInfo = [
       desc: "I completed my class 11 & 12 education from CCRC, Kathmandu, under the  NEB board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
       degree: "NEB(XI-XII) - PCM with Computer Science",
     },
+   
     {
-      id: 1,
+      id: 0,
       img: modernlogo,
       school: "Modern Tulsi Secondary School, Salyan",
       date: "2022",
@@ -147,14 +157,8 @@ export const SkillsInfo = [
       desc: "I completed my class 10 education from Modern Tulsi Secondary School, Salyan, under the NEB board, where I studied Science with Computer.",
       degree: "NEB(X), Science with Computer Application",
     },
-     {
-      id: 2,
-      img: uorlogo,
-      school: "University Of Roehampton, UK",
-      date: "2026",
-      grade: "Currently Studying",
-      desc: "I am currently pursuing my undergraduate degree in Cyber Security at the University of Roehampton, London, United Kingdom, where I am developing knowledge and practical skills in cybersecurity, networking, programming, and information security.",
-    },
+     
+    
   ];
   
   export const projects = [
