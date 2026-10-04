@@ -34,7 +34,7 @@ import freelan from './assets/company_logo/freelan.png';
 
 import ccrclogo from './assets/education_logo/ccrc-logo.jpg';
 import modernlogo from './assets/education_logo/moderntulsi.png';
-import uor from './assets/uor.png'
+import uor from './assets/education_logo/uor.png'
 
 // Project Section Logo's
 
